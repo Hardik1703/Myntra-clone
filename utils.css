@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.flexImg img{
+    width: 20%;
+}
+.flexImg{
+    padding-left: 30px;
+    padding-right: 30px;
+}
